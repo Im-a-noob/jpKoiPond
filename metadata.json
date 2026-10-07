@@ -1,0 +1,6 @@
+{
+  "name": "Koi Pond Garden",
+  "description": "An interactive Japanese koi pond garden rendered in real time with Three.js, procedural life, and custom shaders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
